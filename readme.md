@@ -5,8 +5,7 @@ This project predicts the future stock prices using historical data and a machin
 ## 📁 Files Included
 
 - `stock_price_predictor.ipynb` — Jupyter Notebook to run the project
-- `tcs_stock_data.csv` — Sample stock data for TCS
-- `stock_predictor.py` — Python script version of the notebook
+- `dummy_stock_data.csv` — Sample stock data for TCS
 
 ## 🔧 Technologies Used
 
@@ -49,7 +48,7 @@ python stock_predictor.py
 
 ## 📌 Note
 
-The stock data used is simulated. You can replace `tcs_stock_data.csv` with real data using [Yahoo Finance](https://finance.yahoo.com) and the `yfinance` Python package.
+The stock data used is simulated. You can replace `dummy_stock_data.csv` with real data using [Yahoo Finance](https://finance.yahoo.com) and the `yfinance` Python package.
 
 ## ✍️ Author
 
